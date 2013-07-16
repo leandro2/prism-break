@@ -3,9 +3,9 @@
   "i18n-meta-description": "Opt out of PRISM, the NSA&rsquo;s global data surveillance program. Stop reporting your online activities to the American government with these free alternatives to proprietary software.",
   "i18n-intro": "<strong>Diga não ao PRISM, o programa mundial de vigilância de dados da NSA.</strong> Pare de reportar suas atividades online para o governo americano; use as seguintes alternativas livres ao software proprietário.",
 
-  "i18n-proprietary": "Proprietary",
+  "i18n-proprietary": "Proprietário",
   "i18n-free-alternative": "Free alternative",
-  "i18n-notes": "Notes",
+  "i18n-notes": "Notas",
 
   "i18n-operating-system" : "Sistema Operacional",
   "i18n-debian-desc": "Distribuição GNU/Linux livre famosa por suas posições éticas.",
@@ -172,7 +172,7 @@
   "i18n-donate": "Doe",
   "i18n-contribute": "Contribute",
 
-  "i18n-operating-system-note": "<p>Apple, Google, and Microsoft are a part of PRISM. Their proprietary operating systems cannot be trusted to safeguard your personal information from the NSA.</p><p>This leaves us with two free alternatives: <strong><a href='https://www.gnu.org/distros/free-distros.html'>GNU/Linux</a></strong> and <strong><a href='https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems'>BSD</a></strong>.</p> <p>GNU/Linux has a much larger community to help you with the transition. It's recommended that you begin your explorations by looking for a <a href='http://distrowatch.com/'>GNU/Linux distribution</a> that suits your needs.</p> <p>Why not Ubuntu? Ubuntu is a poor choice because it contains <a href='https://www.gnu.org/philosophy/ubuntu-spyware.html'>spyware</a>.</p> <p>Note: PRISM Break recommends the no-codecs edition of <strong>Linux Mint</strong>, as the other editions are encumbered with software patents. <a href='https://github.com/nylira/prism-break/issues/126#issuecomment-19898104'>More info</a>.</p>",
+  "i18n-operating-system-note": "<p>Apple, Google e Microsoft fazem parte do PRISM. Seus sistemas operacionais proprietários não pode ser confiável para proteger suas informações pessoais da NSA.</p><p>Isso nos deixa com duas alternativas livres: <strong><a href='https://www.gnu.org/distros/free-distros.html'>GNU/Linux</a></strong> e <strong><a href='https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems'>BSD</a></strong>.</p> <p>GNU/Linux tem uma comunidade muito maior para ajudá-lo com a transição. É recomendado que você comece suas explorações, procurando por uma <a href='http://distrowatch.com/'>distribuição GNU/Linux</a> que se adapte às suas necessidades.</p> <p>Por que não Ubuntu? Ubuntu é uma má escolha, pois contém <a href='https://www.gnu.org/philosophy/ubuntu-spyware.html'>spyware</a>.</p> <p>Nota: PRISM Break recomenda edição 'no-codecs' de <strong>Linux Mint</strong>, como as outras edições estão sobrecarregados com as patentes de software. <a href='https://github.com/nylira/prism-break/issues/126#issuecomment-19898104'>Mais informações</a>.</p>",
 
   "i18n-android-note": "<p><strong>CyanogenMod</strong> licensing: &ldquo;CyanogenMod does still include various hardware-specific code, which is also slowly being open-sourced anyway.&rdquo; &mdash;<a href='https://en.wikipedia.org/wiki/CyanogenMod#Licensing'>Wikipedia</a></p><p><strong>F-Droid</strong> is a free alternative to the Google Play app store.</p>",
 
@@ -186,7 +186,7 @@
 
   "i18n-email-services-note": "<p><strong>Riseup</strong> is hosted in the USA, in case that matters.</p><p>Why not Hushmail? See <a href='https://en.wikipedia.org/wiki/Hushmail#Compromises_to_email_privacy'>&ldquo;compromises to email privacy&rdquo;</a>.</p>",
 
-  "i18n-email-clients-note": "<p>Note: <strong>Mozilla Thunderbird</strong> is technically not completely free software, as Mozilla recommends non-free add-ons on their website.</p>",
+  "i18n-email-clients-note": "<p>Note: <strong>Mozilla Thunderbird</strong> não é completamente um software livre,  Mozilla recomennda add-ons não-livres no seu website.</p>",
 
   "i18n-email-encryption-note": "<p>&ldquo;Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. PGP is often used for signing, encrypting and decrypting texts, e-mails, files, directories and whole disk partitions to increase the security of e-mail communications.&rdquo;</p><p>&mdash; <a href='https://en.wikipedia.org/wiki/Pretty_Good_Privacy'>Wikipedia</a>",
 
@@ -198,7 +198,7 @@
 
   "i18n-online-transactions-note": "<p>The <strong>Bitcoin</strong> blockchain is a decentralized, public ledger of all transactions in the Bitcoin network.</p><p>&ldquo;It may be the TCP/IP of money.&rdquo; &mdash;Paul Buchheit</p>",
 
-  "i18n-media-publishing-note": "<p><strong>Self-hosted</strong> is important. Hosting your blog on Wordpress.com is no better for your data security than Blogger or Tumblr.</p>",
+  "i18n-media-publishing-note": "<p><strong>Hospedagem-própria</strong> é importante. Hospedar seu blog no Wordpress.com não é melhor para a segurança dos dados que Blogger ou Tumblr.</p>",
 
   "i18n-document-collaboration-note": "<p>--</p>",
 
@@ -212,6 +212,6 @@
 
   "i18n-darknet-note": "<p>&ldquo;A darknet is an anonymizing network where connections are made only between trusted peers.</p><p>Darknets are distinct from other distributed P2P networks as sharing is anonymous, and therefore users can communicate with little fear of governmental or corporate interference.&ldquo;</p><p>&mdash;<a href='https://en.wikipedia.org/wiki/Darknet_%28file_sharing%29'>Wikipedia</a></p>",
 
-  "i18n-disclaimer": "Disclaimer: Using the recommended projects on this site will not guarantee that 100% of your communications will be shielded against surveillance states. Please do your own research before trusting these softwares with sensitive information."
+  "i18n-disclaimer": "Disclaimer: Usando os projetos recomendados neste site não garante que 100% de suas comunicações serão protegidos contra estados de vigilância . Por favor, faça sua própria pesquisa antes de confiar nesses softwares com informações sigilosas."
 
 }
